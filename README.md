@@ -19,7 +19,7 @@ Generally speaking, traffic simulation normally requires a theoretically sound t
 
 ➢	How good is the prediction performance of the agent-based/ Cellular Automata model constructed on traffic density?
 
-➢	How individual agent can be updated each time according to the real driving behavior?
+➢	How individual agent can be updated each time according to the simple car following mechanism?
 
 
 ##Expected Results
