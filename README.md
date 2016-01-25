@@ -2,7 +2,7 @@
 
 
  Document Version: 1 
- Group participants: Junqing Tang & Jingya Yan.
+ Group participants: ##Junqing Tang & Jingya Yan.
 
 
 ##General Introduction
