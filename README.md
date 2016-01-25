@@ -16,7 +16,9 @@ Generally speaking, traffic simulation normally requires a theoretically sound t
 # Fundamental Questions
 
 ➢	How to achieve real-time traffic flow visualization on dynamic flow movement based on GPS data?
+
 ➢	How good is the prediction performance of the agent-based/ Cellular Automata model constructed on traffic density?
+
 ➢	How individual agent can be updated each time according to the real driving behavior?
 
 
