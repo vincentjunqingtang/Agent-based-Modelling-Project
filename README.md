@@ -54,9 +54,11 @@ Jingya Yan has provided useful ideas and discussion at the early-age of the proj
 
 •	Cellular Automata in spatial-temporal analysis
 
-•	Car Following principle rules in agent behavior setting
+•	Car Following mechanism in agent behavior setting
 
 •	Traffic flow theories
+
+• Phase Trasition Model
 
 
 
