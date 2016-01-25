@@ -12,7 +12,7 @@ Traffic flow theory plays an indispensable role in transport study. Especially t
 Generally speaking, traffic simulation normally requires a theoretically sound traffic model and large amount of data collection. Agent-based Modeling is an efficient and intellectual way of performing modeling and simulation. There are significant amount of existing literatures regarding agent-based modeling application in traffic flow simulation. 
 
 
-# Fundamental Questions
+##Fundamental Questions
 
 ➢	How to achieve real-time traffic flow visualization on dynamic flow movement based on GPS data?
 
@@ -21,22 +21,26 @@ Generally speaking, traffic simulation normally requires a theoretically sound t
 ➢	How individual agent can be updated each time according to the real driving behavior?
 
 
-# Expected Results
+##Expected Results
 
 We are expecting to have good traffic pattern prediction on real-time GPS data.  And hopefully comparing our agent-based model with another well-defined differential-equation traffic models. For example, Phase Transition Model, also known as PTM, is one of the most powerful higher-order traffic models for transport simulation study. The mathematical attributions (well-defined differentiation equations) of this model qualify the prediction performance outcome as pretty accurate. However, implementation of PTM requires a reliable large amount of real-time data, proper penetration rate of data collection and moderate level of sampling frequency. Expectantly, our Agent-based Model would not require too large volume of data to be set beforehand, and it will only requires the initial boundary conditions to be set. We are expecting that, our model would amplify the traffic simulation methods since our model will not rely on large amount of data collected and only based on really simply agent updating rules.
 
 
-# References 
+##References 
 
 •	BENHAMZA, K., ELLAGOUNE, S., SERIDI, H., & AKDAG, H. (2013). Agent-based modeling for traffic simulation.
+
 •	Piccoli, B., Han, K., Friesz, T. L., Yao, T., & Tang, J. (2015). Second-order models and traffic data from mobile sensors. Transportation Research Part C: Emerging Technologies, 52, 32-56.
 
 
-# Research Methods
+##Research Methods
 
 •	Agent-based Modeling using Matlab
+
 •	Cellular Automata in spatial-temporal analysis
+
 •	Car Following principle rules in agent behavior setting
+
 •	Traffic flow theories
 
 
