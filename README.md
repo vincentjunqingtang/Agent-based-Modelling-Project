@@ -1,4 +1,3 @@
-# Agent-based-Modelling-Project
 # MSSSM FRS-SEC (Singapore) – Research Plan
 
 
@@ -6,7 +5,7 @@
  Group participants: Junqing Tang & Jingya Yan.
 
 
-# General Introduction
+##General Introduction
 
 Traffic flow theory plays an indispensable role in transport study. Especially the traffic simulation is crucial in understanding the traffic flow and motorway performance.
 
