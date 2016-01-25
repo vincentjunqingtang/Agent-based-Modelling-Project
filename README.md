@@ -3,7 +3,7 @@ MSSSM FRS-SEC (Singapore) – Research Plan
 
 
 Document Version: 1 
-Group participants’ names: Junqing Tang & Jingya Yan.
+Group participants: Junqing Tang & Jingya Yan.
 
 
 General Introduction
